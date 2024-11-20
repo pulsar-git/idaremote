@@ -1,0 +1,3 @@
+- pip install rpyc
+- in ida execute rpc.py
+- in a shell execute test_rpc.py
